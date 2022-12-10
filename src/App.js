@@ -12,16 +12,22 @@ cd C:\Users\krist>cd C:\Users\krist\Desktop\Haaga-Helia\Front End Programming
 npx create-react-app personal_trainer_app_t1
 
 ---- App launched ----
-cd "C:\Users\krist\Desktop\Haaga-Helia\Front End Programming\personal_trainer_app_t1"
+cd "C:\Users\krist\Desktop\Haaga-Helia\Front End Programming\personal_trainer_app_t2"
 npm start
 
 ---- Installs ---- App bar, ag-grid, App Bar (NavigationBar)
-cd "C:\Users\krist\Desktop\Haaga-Helia\Front End Programming\personal_trainer_app_t1"
+cd "C:\Users\krist\Desktop\Haaga-Helia\Front End Programming\personal_trainer_app_t2"
 npm install @mui/material @emotion/react @emotion/styled
 npm install ag-grid-community ag-grid-react
 npm install @mui/material @emotion/react @emotion/styled
 npm install @mui/icons-material
 npm install react-router-dom@6
+
+npm install @mui/x-date-pickers
+npm install @date-io/date-fns@1.x date-fns
+npm install @material-ui/pickers
+npm install @material-ui/core
+npm install dayjs
 */
 function App() {
   // Navigation bar variables
