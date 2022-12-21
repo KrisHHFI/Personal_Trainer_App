@@ -2,7 +2,7 @@
 
 Check out the [demo video](https://www.youtube.com/watch?v=vITms1rchFk).
 
-### launch The App
+### Launch the App
 
 `cd` to folder and `npm start`.
 
