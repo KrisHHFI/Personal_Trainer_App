@@ -1,12 +1,8 @@
-# Getting Started with Create React App
+# Personal Trainer App (uni project)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Check out the [demo video](https://www.youtube.com/watch?v=vITms1rchFk).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
+### To launch 'cd' to folder and `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
