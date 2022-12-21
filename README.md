@@ -2,7 +2,9 @@
 
 Check out the [demo video](https://www.youtube.com/watch?v=vITms1rchFk).
 
-### To launch 'cd' to folder and `npm start`
+### launch The App
+
+`cd` to folder and `npm start`.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
